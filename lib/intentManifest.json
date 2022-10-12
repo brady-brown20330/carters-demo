@@ -1,0 +1,31 @@
+{
+  "site": {
+    "sampleSize": 0,
+    "intents": [
+      {
+        "id": "dogLover",
+        "signals": [
+          {
+            "type": "BEH",
+            "freq": "always",
+            "scope": "visitor",
+            "str": 50
+          }
+        ]
+      },
+      {
+        "id": "catLover",
+        "signals": [
+          {
+            "type": "BEH",
+            "freq": "always",
+            "scope": "visitor",
+            "str": 50
+          }
+        ]
+      }
+    ],
+    "enrichments": [],
+    "tests": []
+  }
+}
